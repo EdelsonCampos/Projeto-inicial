@@ -5,7 +5,7 @@ Introdução ao sistema de registro de funcionários que permite o cadastro,
 visualização e feedback dos dados dos funcionários.
 
 Descrição do Projeto
-O sistema será desenvolvido em JS e usará MySQL como banco de dados. Ele
+O sistema será desenvolvido em JS, html,css  e usará MySQL como banco de dados. Ele
 permitirá o registro de funcionários, a visualização de dados em uma planilha e a
 capacidade de fornecer feedback aos superiores sobre o que precisa ser melhorado
 na empresa.
